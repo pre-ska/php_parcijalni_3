@@ -49,7 +49,7 @@
         }
       </style>
   </head>
-  <body>
+  <body> 
     <a href="https://github.com/pre-ska/php_parcijalni_3"  title="Github" target='_blank' class='logo' >
           <img src="https://i.imgur.com/wUYw1nr.png" alt="">
     </a>
