@@ -50,7 +50,7 @@
       </style>
   </head>
   <body>
-    <a href="https://www.google.com"  title="Github" target='_blank' class='logo' >
+    <a href="https://github.com/pre-ska/php_parcijalni_3"  title="Github" target='_blank' class='logo' >
           <img src="https://i.imgur.com/wUYw1nr.png" alt="">
     </a>
     <?php
