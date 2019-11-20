@@ -160,13 +160,13 @@
       if (niz[i+1].textContent.length < 2) sat = `0${niz[i+1].textContent}:00`;
       else sat = `${niz[i+1].textContent}:00`;
 
-      let obj = {
+      let obj_ = {
         dan: niz[i].textContent,
         sat,
         pred: niz[i+2].textContent
       };
 
-      obj[niz[i].textContent].push(obj)
+      obj[niz[i].textContent].push(obj_)
     }
 
     for (let key in obj) {
